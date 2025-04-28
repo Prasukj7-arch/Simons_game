@@ -4,7 +4,6 @@ Simon’s Game is a classic memory game where players must memorize and repeat a
 
 ## Demo
 [Play Simon's Game here!](https://prasukj7-arch.github.io/Simons_game/)  
-*(Replace with live link if you deploy it!)*
 
 ## Features
 - Random color sequence generation
